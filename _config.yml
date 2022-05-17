@@ -5,7 +5,7 @@ search_enabled: false
 
 collections:
   docs:
-    permalink: "/:collection/:path/"
+    permalink: "/docs/about.html"
     output: true
   tutorials:
     permalink: "/:collection/:path/"
