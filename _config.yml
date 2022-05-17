@@ -2,3 +2,18 @@ title: "Remote theme example"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "dark"
 search_enabled: false
+
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+    tutorials:
+      name: Tutorials
