@@ -1,2 +1,2 @@
-# DocumentacionLinux
-Para guardar todo lo de Linux y Raspberry
+# Inicio
+Para guardar todo lo de Linux y Raspberry.
