@@ -1,9 +1,9 @@
 ---
-title: Test
-has_children: true
+title: Comandos básicos de Linux
+has_children: false
 nav_order: 2
 ---
 
 # Another page
 
-Es una prueba
+Estoy en ello...
