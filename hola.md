@@ -4,6 +4,6 @@ has_children: false
 nav_order: 2
 ---
 
-# Another page
+# Comandos básicos de Linux
 
 Estoy en ello...
